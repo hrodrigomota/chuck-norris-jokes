@@ -68,13 +68,13 @@ button:hover {
     }
 
     img {
-        width: 12rem;
-        height: 12rem;
+        width: 10rem;
+        height: 10rem;
     }
 
     div#root {
         width: 30rem;
-        height: 26rem;
+        height: 32rem;
         margin: 3rem auto;
         font-size: 1.4rem;
     }
