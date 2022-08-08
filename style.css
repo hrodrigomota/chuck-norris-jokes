@@ -26,8 +26,8 @@ p {
 }
 
 img {
-    width: 25rem;
-    height: 25rem;
+    width: 20rem;
+    height: 20rem;
 }
 
 div#root {
@@ -74,7 +74,7 @@ button:hover {
 
     div#root {
         width: 30rem;
-        height: 20rem;
+        height: 26rem;
         margin: 3rem auto;
         font-size: 1.4rem;
     }
